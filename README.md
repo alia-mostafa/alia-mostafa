@@ -15,22 +15,32 @@ Welcome to my GitHub profile! I am a passionate web developer and technology ent
 
 ## 🚀 About Me
 
-أنا علياء، مطورة ويب شغوفة بحلول البرمجة وتصميم المواقع. أحب التحديات وحل المشكلات، ودخلت المجال من حبي للتكنولوجيا والإبداع. أركز دائمًا على تقديم حلول تضيف قيمة حقيقية للعملاء.
+.I’m a passionate computer science student at Benha University with a deep interest in programming and problem-solving. My journey started with curiosity and turned into a solid passion as I explored different areas of development. I specialize in Flutter and web development, and I enjoy turning ideas into functional, user-friendly applications. My goal is to deliver clean code, innovative solutions, and contribute value to every project I work on.
 
 ---
 
 ## 🎓 Education
 
-- [أضف شهادتك أو دراستك هنا...]
-- مثال: **BSc in Computer Science** – جامعة القاهرة، 2022
-- مثال: **دورة Flutter Intensive** – ITI، 2023
+Benha University – Faculty of Computer Science and AI
+Sep. 2023 – Jul. 2027 | Benha, Qalyubia
+Relevant Coursework:
+• Data Structures
+• Logical Design
+• Algorithms Analysis
+• Information Systems
+• OOP
+• Electronics
+• Structured Programming
+• Computer Architecture
 
----
 
 ## 🧰 Skills
 
 **Technical:**  
-HTML, CSS, JavaScript, Flutter, C++, PHP
+
+Technical Skills: Python, Dart, Java,  Flutter,  MySQL, HTML, CSS, JavaScript,  C++, PHP
+Soft Skills: Communication, Teamwork, Creativity, Time Management
+
 
 **Personal:**  
 Teamwork, Problem Solving, Communication, Critical Thinking
@@ -39,18 +49,17 @@ Teamwork, Problem Solving, Communication, Critical Thinking
 
 ## 💼 Work Experience
 
-- [أضف أي تدريب/وظيفة/مشروع تخرج...]
-- مثال: تدريب عملي كمطور ويب في شركة XYZ (2024)
-- مثال: مشروع تخرج: منصة لإدارة المهام باستخدام Flutter وPHP
+• Participated in 2024 ICPC ECPC Qualifications – July 2024
+• Member at GDG on Camps (Flutter Track) – Aug 2024 to Apr 2025
+• Attended GDG Bootcamp 2025 – Flutter Track
 
----
 
 ## 🛠️ Offered Services
+• Web Development
+• Mobile App Development
+• Automation Scripts
+• Data Cleaning
 
-- تطوير مواقع الويب (Web Development)
-- برمجة تطبيقات الموبايل (Flutter)
-- سكريبتات أتمتة وحلول برمجية
-- تحسين واجهات المستخدم
 
 ---
 
