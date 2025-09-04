@@ -1,13 +1,13 @@
 # Hi there, I'm Alia Mostafa 👋
 
-Welcome to my GitHub profile! I am a passionate web developer and technology enthusiast. Here you’ll find my projects, skills, and a little about my journey.
+Welcome to my GitHub profile! I am a passionate flutter developer and technology enthusiast. Here you’ll find my projects, skills, and a little about my journey.
 
 ---
 
 ## 🖼️ Cover
 
 **Alia Mostafa**  
-**Web Developer**  
+**flutter Developer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alia-mostafa-a610b0298)  
 [![Email](https://img.shields.io/badge/Email-0077B5?style=flat-square&logo=gmail&logoColor=white)](mailto:alia.mostafa142@icloud.com)
 
